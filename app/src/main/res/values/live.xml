@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ChannelNames">
+        <item>【花屏】</item>
+        <item>CCT01</item>
+        <item>CCT01 FHD</item>
+        <item>CCT02</item>
+        <item>CCT03 FHD</item>
+        <item>CCT03 HD</item>
+        <item>CCT04</item>
+        <item>CCT05 FHD</item>
+        <item>CCT05 HD</item>
+        <item>CCT05+ FHD</item>
+        <item>CCT05+ HD</item>
+        <item>CCT06 FHD</item>
+        <item>CCT06 HD</item>
+        <item>CCT07</item>
+        <item>CCT08 FHD</item>
+        <item>CCT08 HD</item>
+        <item>CCT09</item>
+        <item>CCT10</item>
+        <item>CCT11</item>
+        <item>CCT12</item>
+        <item>CCT13</item>
+        <item>CCT14</item>
+        <item>CCT15</item>
+        <item>CGTN</item>
+        <item>CGTN-纪录</item>
+        <item>东南卫视</item>
+        <item>东方卫视 FHD</item>
+        <item>中国功夫</item>
+        <item>云南卫视</item>
+        <item>优漫卡通</item>
+        <item>健康有约</item>
+        <item>内蒙古卫视</item>
+        <item>军事评论</item>
+        <item>军旅剧场</item>
+        <item>农业致富</item>
+        <item>农林卫视</item>
+        <item>凤凰中文HD</item>
+        <item>凤凰资讯HD</item>
+        <item>动作电影</item>
+        <item>动画王国</item>
+        <item>北京卫视 FHD</item>
+        <item>南平邵武电视台</item>
+        <item>南方卫视</item>
+        <item>南方影视</item>
+        <item>卡酷少儿</item>
+        <item>吉林卫视</item>
+        <item>嘉佳卡通</item>
+        <item>四川卫视</item>
+        <item>天津卫视 FHD</item>
+        <item>宁夏卫视</item>
+        <item>安徽卫视</item>
+        <item>安徽卫视HD</item>
+        <item>完美游戏</item>
+        <item>山东卫视 FHD</item>
+        <item>山东教育</item>
+        <item>广东体育</item>
+        <item>广东公共</item>
+        <item>广东卫视</item>
+        <item>广东国际</item>
+        <item>广东少儿</item>
+        <item>广东新闻</item>
+        <item>广东珠江</item>
+        <item>广东经视</item>
+        <item>广东综艺</item>
+        <item>广西卫视</item>
+        <item>新疆卫视</item>
+        <item>旅游卫视</item>
+        <item>明星大片</item>
+        <item>未知</item>
+        <item>江苏卫视 FHD</item>
+        <item>浙江卫视 FHD</item>
+        <item>海外剧场</item>
+        <item>深圳卫视 FHD</item>
+        <item>湖北卫视 FHD</item>
+        <item>湖南卫视 FHD</item>
+        <item>滦平新闻频道</item>
+        <item>潮妈辣婆</item>
+        <item>炫动卡通</item>
+        <item>熊猫直播</item>
+        <item>爱情喜剧</item>
+        <item>甘肃卫视</item>
+        <item>电视指南</item>
+        <item>精品纪录</item>
+        <item>西藏卫视</item>
+        <item>贵州卫视</item>
+        <item>辽宁卫视</item>
+        <item>遵义新闻</item>
+        <item>重庆卫视</item>
+        <item>金鹰卡通</item>
+        <item>镇海综合</item>
+        <item>青海卫视</item>
+        <item>风尚购物</item>
+        <item>黑龙江卫视</item>
+        <item>黔东南凯里</item>
+    </array>
+    <array name="ChannelUrls">
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225765/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225958/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225933/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225736/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225935/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225963/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225735/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226039/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225938/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226064/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225939/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226043/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225734/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225864/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226035/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225865/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225733/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226047/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225731/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226049/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225777/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226050/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225767/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225866/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225756/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225875/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225951/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225996/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225910/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225979/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225760/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225972/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225923/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225968/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225764/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225686/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225983/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225914/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225874/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002is99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002ja99/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225907/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226012/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002jl99/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225778/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225899/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225741/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226051/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201704243000000wn99/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225931/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225894/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225908/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002ht99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002i699/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002fb99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002hi99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002jh99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002h899/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002gt99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002ic99/desc.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201612083000002j399/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225750/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225997/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225890/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225969/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225928/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225887/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225903/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225917/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225897/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225884/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225885/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/2016072030000008o13/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225957/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225909/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226065/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225985/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226054/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225729/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225973/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225900/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226056/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225889/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/201701043000000a413/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225994/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225992/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/2017020930000004m13/desc.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226062/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221225911/index.m3u8</item>
+        <item>http://111.13.42.8/PLTV/88888888/224/3221226015/index.m3u8</item>
+        <item>http://r.gslb.lecloud.com/live/hls/2016101930000010899/desc.m3u8</item>
+    </array>
+</resources>
